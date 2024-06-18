@@ -16,31 +16,13 @@
 
 ### Education
 <p>🎓 I finished the course 'Software testing from scratch. Theory + practice'</p>
-<img height="300" src="Certificate_Rusau.png"  />
+<div align="center"><img height="300" src="Certificate_Rusau.png"  /></div>
 <p>🌍 Have a good English-level with apportunity to speake and read documentation</p>
-<img height="300" src="Certificate_Rusau.png"  />
+<div align="center"><img height="550" src="Certification_EFSET.png"  /></div>
 
 
-### My CV
-
-
-
-
-  
-
+## My CV
 
 <div align="center">
-  <img height="400" src="Certificate_Rusau.png"  />
+  <img height="600" src="CV_Katsiatyna Shved_Tester_for social media v.2.png"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-
-
