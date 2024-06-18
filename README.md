@@ -1,4 +1,4 @@
-# Tester
+# Tester / QA engineer
 <p>👋 Hi! 
 <br>My name is Kate and I'm here to provide the best quality of your software product. Here are some of my projects. </p>
 
