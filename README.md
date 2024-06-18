@@ -1,23 +1,23 @@
 # Tester
-<p>👋 Hi!</p> 
-<p>My name is Kate and I'm here to provide the best quality of your software product.</p>
+<p>👋 Hi! 
+<br>My name is Kate and I'm here to provide the best quality of your software product. Here are some of my projects. </p>
 
 ### My skills 
-<p>📖 Testing fundamentals (testing rules, typing classification, STLC and STLC, Software development models)</p>
-<p>⚙️ Testing techniques</p>
-<p>📚 Documentation: checklist, test case, bug report</p>
-<p>🐞 Jira, Azure, YouTrack</p>
-<p>🗂️ TMS: QASE</p>
-<p>📦 Database: PostgreSQL (create, drop, insert, select, where, update, group by, having, order by, join, subqueries)</p>	
-<p>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS</p>
-<p>🔗 API: Postman, Soap UI</p>
-<p>🐈‍⬛ Git/GitHub</p>
+<p>📖 Testing fundamentals (testing rules, typing classification, STLC and STLC, Software development models)
+<br>⚙️ Testing techniques
+<br>📚 Documentation: checklist, test case, bug report
+<br>🐞 Jira, Azure, YouTrack
+<br>🗂️ TMS: QASE
+<br>📦 Database: PostgreSQL (create, drop, insert, select, where, update, group by, having, order by, join, subqueries)	
+<br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS
+<br>🔗 API: Postman, Soap UI
+<br>🐈‍⬛ Git/GitHub</p>
 
 ### Education
-<p>🎓 I finished the course 'Software testing from scratch. Theory + practice'</p>
-<p>https://stepik.org/cert/2495974?lang=en</p>
-<p>🌍 Have a good English-level with apportunity to speake and read documentation</p>
-![alt text]()
+<p>🎓 I finished the course 'Software testing from scratch. Theory + practice'
+<br>https://stepik.org/cert/2495974?lang=en
+<br>🌍 Have a good English-level with apportunity to speake and read documentation</p>
+
 
 ### My CV
 
