@@ -16,7 +16,7 @@
 
 ### Education
 <p>🎓 I finished the course 'Software testing from scratch. Theory + practice'</p>
-<div align="center"><img height="300" src=""  /></div>
+<div align="center"><img height="300" src="Certificate_Rusau_distinction.png"  /></div>
 <p>🌍 Have a good English-level with apportunity to speake and read documentation</p>
 <div align="center"><img height="550" src="Certification_EFSET.png"  /></div>
 
@@ -24,5 +24,5 @@
 ## My CV
 
 <div align="center">
-  <img height="600" src=""  />
+  <img height="600" src="CV_GitHub.png"  />
 </div>
