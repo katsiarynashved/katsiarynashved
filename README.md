@@ -16,7 +16,7 @@
 
 ### Education
 <p>🎓 I finished the course 'Software testing from scratch. Theory + practice'</p>
-<div align="center"><img height="300" src="Certificate_Rusau_distinction.png"  /></div>
+<div align="center"><img height="300" src="Certificate_Rusau_distinction.png"  /></div><br>
 <p>🌍 Have a good English-level with apportunity to speake and read documentation</p>
 <div align="center"><img height="550" src="Certification_EFSET.png"  /></div>
 
