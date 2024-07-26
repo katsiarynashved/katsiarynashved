@@ -11,7 +11,9 @@
 <br>📦 Database: PostgreSQL (create, drop, insert, select, where, update, group by, having, order by, join, subqueries)	
 <br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS
 <br>🔗 API: Postman, Soap UI
-<br>🐈‍⬛ Git/GitHub</p>
+<br>🐈‍⬛ Git/GitHub
+<br>📱 Android Studio
+<br>📷 Photoshop</p>
 
 
 ### Education
