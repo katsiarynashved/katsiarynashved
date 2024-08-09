@@ -1,6 +1,6 @@
 # Tester / QA engineer
 <p>👋 Hi! 
-<br>My name is Kate and I'm here to provide the best quality of your software product. Here are some of my projects. </p>
+<br>My name is Kate and I'm here to provide the best quality of your software product. Here are some of my projects, my skills and certificates and much more. </p>
 
 ### My skills 
 <p>📖 Testing fundamentals
@@ -17,15 +17,15 @@
 
 ### Education
 <p>🎓 ISTQB Certified Tested Fundation Level v.4.0</p>
-<div align="center"><img height="300" src="CTFL4-2024-22615-SJSI_EN_Katsiaryna_Shved.png"  /></div><br>
+<div align="center"><img  src="CTFL4-2024-22615-SJSI_EN_Katsiaryna_Shved.png"  /></div><br>
 <p>🎓 I finished the course 'Software testing from scratch. Theory + practice'</p>
-<div align="center"><img height="300" src="Certificate_Rusau_distinction.png"  /></div><br>
+<div align="center"><img  src="Certificate_Rusau_distinction.png"  /></div><br>
 <p>🌍 Have a good English-level with apportunity to speake and read documentation</p>
-<div align="center"><img height="550" src="Certification_EFSET.png"  /></div>
+<div align="center"><img  src="Certification_EFSET.png"  /></div>
 
 
 ## My CV
 
 <div align="center">
-  <img height="600" src="CV_GitHub.png"  />
+  <img  src="-"  />
 </div>
