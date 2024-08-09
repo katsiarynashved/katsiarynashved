@@ -17,7 +17,7 @@
 
 ### Education
 <p>🎓 ISTQB Certified Tested Fundation Level v.4.0</p>
-<div align="center"><img height="300" src="CTFL4-2024-22615-SJSI_EN_Katsiaryna_Shved.pdf"  /></div><br>
+<div align="center"><img height="300" src="CTFL4-2024-22615-SJSI_EN_Katsiaryna_Shved.png"  /></div><br>
 <p>🎓 I finished the course 'Software testing from scratch. Theory + practice'</p>
 <div align="center"><img height="300" src="Certificate_Rusau_distinction.png"  /></div><br>
 <p>🌍 Have a good English-level with apportunity to speake and read documentation</p>
