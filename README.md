@@ -27,5 +27,5 @@
 ## My CV
 
 <div align="center">
-  <img  src="-"  />
+  <img  src="CV_Katsiaryna_Shved_LinkedIn.png"  />
 </div>
