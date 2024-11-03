@@ -6,7 +6,7 @@
 <p>📖 Testing fundamentals
 <br>📚 Documentation: checklist, test case, bug report
 <br>🐞 Jira, Azure, YouTrack
-<br>🗂️ TMS: QASE
+<br>🗂️ TMS: QASE, TestRail
 <br>📦 Database: PostgreSQL, MySQL (GUI & CLI): "full form" of SQL query + join, subqueries	
 <br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS
 <br>🔗 API: Postman, Soap UI
