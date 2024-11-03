@@ -7,7 +7,7 @@
 <br>📚 Documentation: checklist, test case, bug report
 <br>🐞 Jira, Azure, YouTrack
 <br>🗂️ TMS: QASE
-<br>📦 Database: PostgreSQL (create, drop, insert, select, where, update, group by, having, order by, join, subqueries)	
+<br>📦 Database: PostgreSQL, MySQL (GUI & CLI): "full form" of SQL query + join, subqueries	
 <br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS
 <br>🔗 API: Postman, Soap UI
 <br>🐈‍⬛ Git/GitHub
