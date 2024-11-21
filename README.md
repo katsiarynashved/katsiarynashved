@@ -3,16 +3,20 @@
 <br>My name is Kate and I'm here to provide the best quality of your software product. Here are some of my projects, my skills and certificates and much more. </p>
 
 ### My skills 
-<p>📖 Testing fundamentals
+<p>📖 Testing fundamentals (including ISTQB)
 <br>📚 Documentation: checklist, test case, bug report
-<br>🐞 Jira, Azure, YouTrack
+<br>🐞 Confluence/Jira, Azure, YouTrack
 <br>🗂️ TMS: QASE, TestRail
 <br>📦 Database: PostgreSQL, MySQL (GUI & CLI): "full form" of SQL query + join, subqueries	
 <br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS
 <br>🔗 API: Postman, Soap UI
 <br>🐈‍⬛ Git/GitHub
+<br>🍵 Java: Basics
 <br>📱 Android Studio
-<br>📷 Photoshop</p>
+<br>📷 Photoshop
+<br>🪟 Microsoft 365 </p>
+
+
 
 
 ### Education
@@ -27,5 +31,5 @@
 ## My CV
 
 <div align="center">
-  <img  src="CV_Katsiaryna_Shved_LinkedIn.png"  />
+  <img  src=""  />
 </div>
