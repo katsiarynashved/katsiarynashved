@@ -1,11 +1,11 @@
 # Tester / QA engineer
 <p>👋 Hi! 
-<br>My name is Kate and I'm here to provide the best quality of your software product. Here are some of my projects, my skills and certificates and much more. </p>
+<br> I’m Kate, a young testing professional with ISTQB CTFL certification. I started my journey through an internship, where I gained valuable hands-on experience in writing test cases, working with my team, and conducting tests. This experience allowed me to sharpen my skills and better understand the testing process. I’m eager to continue learning and growing in this field. </p>
 
 ### My skills 
-<p>📖 Testing fundamentals (including ISTQB)
-<br>📚 Documentation: checklist, test case, bug report
-<br>🐞 Confluence/Jira, Azure, YouTrack
+<p> 📖 Testing fundamentals (including ISTQB)
+<br>📚 Documentation: test case, bug report
+<br>🐞 Confluence/Jira (+Zephyr Scale), Azure, YouTrack
 <br>🗂️ TMS: QASE, TestRail
 <br>📦 Database: PostgreSQL, MySQL (GUI & CLI): "full form" of SQL query + join, subqueries	
 <br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS
