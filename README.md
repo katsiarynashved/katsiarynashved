@@ -17,7 +17,10 @@
 <br>🪟 Microsoft 365 </p>
 
 
-
+### Experience
+<p>Training and internship project Junior Software Tester</p>
+📌 <a href='https://verified.sertifier.com/en/verify/01406239472578/'>Certificate link</a>
+<div align="center"><img src='Internship_certificate.png'></div>
 
 ### Education
 <p>🎓 ISTQB Certified Tested Foundation Level v.4.0</p>
