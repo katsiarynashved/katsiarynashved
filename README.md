@@ -18,8 +18,8 @@
 
 
 ### Experience
-<p>Training and internship project Junior Software Tester</p>
-📌 <a href='https://verified.sertifier.com/en/verify/01406239472578/'>Certificate link</a>
+<p> 📌 <a href='https://verified.sertifier.com/en/verify/01406239472578/'>Training and internship project Junior Software Tester (Certificate link)</a></p>
+
 <div align="center"><img src='Internship_certificate.png'></div>
 
 ### Education
