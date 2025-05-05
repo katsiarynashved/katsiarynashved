@@ -1,4 +1,4 @@
-# Tester / QA engineer
+# Junior QA engineer
 <p>👋 Hi! 
 <br> **TBD** </p>
 
