@@ -1,6 +1,6 @@
 # Tester / QA engineer
 <p>👋 Hi! 
-<br> I’m Kate, a young testing professional with ISTQB CTFL certification. I started my journey through an internship, where I gained valuable hands-on experience in writing test cases, working with my team, and conducting tests. This experience allowed me to sharpen my skills and better understand the testing process. I’m eager to continue learning and growing in this field. </p>
+<br> **TBD** </p>
 
 ### My skills 
 <p> 📖 Testing fundamentals (including ISTQB)
@@ -12,15 +12,13 @@
 <br>🔗 API: Postman, Soap UI
 <br>🐈‍⬛ Git/GitHub
 <br>🍵 Java: Basics
-<br>📱 Android Studio
+<br>📱 **TBD**
 <br>📷 Photoshop
 <br>🪟 Microsoft 365 </p>
 
 
 ### Experience
-<p> 📌 <a href='https://verified.sertifier.com/en/verify/01406239472578/'>Training and internship project Junior Software Tester (Certificate link)</a></p>
-
-<div align="center"><img src='Internship_certificate.png'></div>
+**TBD**
 
 ### Education
 <p>🎓 ISTQB Certified Tested Foundation Level v.4.0</p>
