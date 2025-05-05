@@ -4,11 +4,11 @@
 
 ### My skills 
 <p> 📖 Testing fundamentals (including ISTQB)
-<br>📚 Documentation: test case, bug report
+<br>📚 Documentation: **TBD** test case, bug report
 <br>🐞 Confluence/Jira (+Zephyr Scale), Azure, YouTrack
 <br>🗂️ TMS: QASE, TestRail
 <br>📦 Database: PostgreSQL, MySQL (GUI & CLI): "full form" of SQL query + join, subqueries	
-<br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS
+<br>💻 Web: DevTools, protocols, basic knowledge of HTML and CSS **TBD**
 <br>🔗 API: Postman, Soap UI
 <br>🐈‍⬛ Git/GitHub
 <br>🍵 Java: Basics
