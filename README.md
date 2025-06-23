@@ -33,8 +33,8 @@
 <div align="center"><img  src="Certification_EFSET.png"  /></div>
 
 
-<!--> My CV
+<!-- My CV
 
 <div align="center">
   <img  src=""  />
-</div>
+</div> -->
