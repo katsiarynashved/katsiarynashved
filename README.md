@@ -18,10 +18,9 @@
 
 
 ### Experience
-<p><b>Innowise Sp. z o. o.</b>
+<p>💼 <b>Innowise Sp. z o. o.</b>
 <br>03.2025 – nowadays </p>
-<br>
-<p><b>QUALITY ISLAND Sp. z o. o.</b>
+<p>💼 <b>QUALITY ISLAND Sp. z o. o.</b>
 <br>10.2024 – 02.2025</p>
 
 
@@ -34,7 +33,7 @@
 <div align="center"><img  src="Certification_EFSET.png"  /></div>
 
 
-<!--> ## My CV
+<!--> My CV
 
 <div align="center">
   <img  src=""  />
