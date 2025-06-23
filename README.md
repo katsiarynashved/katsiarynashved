@@ -1,4 +1,4 @@
-# Junior QA engineer
+# QA engineer
 <p>👋 Hi! 
 <br> I'm a QA Engineer with almost year of experience, holding an ISTQB Certified Tester – Foundation Level (v4.0) certification. Have a good understanding of QA processes, along with strong critical thinking skills and a high sense of responsibility. Skilled in creating detailed and well-structured testing documentation,  Have experience in writing and executing test cases and checklists to find bugs, as well as in creating bug reports and prioritizing necessary tests. Always eager to explore new tools and technologies. A collaborative and effective team player, who is ready to contribute to the success of the team. </p>
 
